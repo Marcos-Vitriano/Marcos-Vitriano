@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/marcos-vitriano">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcos-vitriano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-vitriano&layout=compact&langs_count=6&theme=dark"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcos-vitriano&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-vitriano&layout=compact&langs_count=6&theme=onedark"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -14,7 +14,6 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div>
   <a href="https://instagram.com/marcosvitriano" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
